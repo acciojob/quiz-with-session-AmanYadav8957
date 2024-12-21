@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+body {  
+    font-family: Arial, sans-serif;  
+    margin: 20px;  
+}  
+
+h1 {  
+    text-align: center;  
+}  
+
+#questions {  
+    margin: 20px 0;  
+}  
+
+.question {  
+    margin-bottom: 15px;  
+}  
+
+input[type="radio"] {  
+    margin-right: 10px;  
+}  
+
+#score {  
+    text-align: center;  
+    margin-top: 20px;  
+    font-size: 1.5em;  
+}
